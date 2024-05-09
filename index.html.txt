@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>How to Use the Flat Series Device</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f5f5f5;
+            color: #333;
+        }
+
+        header {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 20px 0;
+        }
+
+        h1, h2 {
+            margin-top: 20px;
+        }
+
+        main {
+            padding: 20px;
+            max-width: 800px;
+            margin: 0 auto;
+        }
+
+        footer {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 20px 0;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>How to Use the Flat Series Device</h1>
+    </header>
+    <main>
+        <h2>Welcome to THE RITZ-CARLTON!</h2>
+        <p>We're delighted to have you here. Our rooms are equipped with the Flat Series device, designed to enhance your comfort and convenience during your stay. Here's a quick guide on how to use the device:</p>
+
+        <h2>1. Controlling Lights:</h2>
+        <p>Use the touchscreen interface to adjust the lighting in your room. Tap the "Lights" icon on the screen to access lighting options. You can control individual lights or select from pre-set scenes:</p>
+        <ul>
+            <li>High Scene: Creates a bright, well-lit environment.</li>
+            <li>Medium Scene: Sets a moderate level of lighting.</li>
+            <li>Low Scene: Creates a cozy and relaxing ambiance.</li>
+        </ul>
+
+        <h2>2. Adjusting Temperature:</h2>
+        <p>Adjust the temperature to your preference using the controls provided:</p>
+        <ul>
+            <li>( + ) To increase the temperature.</li>
+            <li>( - ) To decrease the temperature.</li>
+            <li>(°C)/(°F) To change the temperature scale between Celsius or Fahrenheit.</li>
+        </ul>
+        <p>You can also adjust the fan speed or set it to AUTO mode for optimal comfort. To turn it off, press the "OFF" button for 5 seconds.</p>
+
+        <h2>3. Bathroom and Vanity:</h2>
+        <p>The Flat Series device also controls the lighting in the bathroom and vanity area. Tap the respective icons on the screen to adjust the lighting in these areas to your liking.</p>
+
+        <h2>4. Curtains and Sheers:</h2>
+        <p>Control the curtains and sheers in your room directly from the Flat Series device. Tap the "CURTAINS OPEN" icon to open the curtains or "CURTAINS CLOSE" icon to close the curtains. Use the "SHEERS OPEN" icon to open the sheer curtains or "SHEERS CLOSE" icon to close them for privacy or sunlight.</p>
+
+        <h2>5. Additional Assistance:</h2>
+        <p>If you have any questions or encounter any issues, please feel free to contact our front desk staff. We're dedicated to ensuring you have a comfortable and enjoyable stay with us.</p>
+    </main>
+    <footer>
+        <p>Thank you for choosing THE RITZ-CARLTON! We trust you'll have a pleasant and memorable experience during your stay.</p>
+        <!-- Google Translate widget code -->
+        <div id="google_translate_element"></div>
+        <script type="text/javascript">
+            function googleTranslateElementInit() {
+                new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'ar,en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE}, 'google_translate_element');
+            }
+        </script>
+        <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+    </footer>
+</body>
+</html>
